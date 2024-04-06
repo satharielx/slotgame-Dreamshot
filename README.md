@@ -1,7 +1,4 @@
-# slotgame-Dreamshot
-
-
-# Slot Engine: A Dynamic Slot Game Engine (Dreamshot Assignment)
+# Console Slot Game: A Dynamic Slot Game Engine (Dreamshot Assignment)
 
 This slotgame is a sophisticated TypeScript-based game designed to simulate a dynamic and interactive slot machine experience. This versatile engine offers a comprehensive suite of features, including customizable reels, symbol configurations, and payout calculation algorithms. With its modular architecture and intuitive interface, developers can easily integrate the Slot Engine into their projects to create captivating and engaging slot games.
 
